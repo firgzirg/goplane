@@ -1,4 +1,4 @@
-module github.com/xairline/goplane
+module github.com/firgzirg/goplane
 
 go 1.17.8
 
