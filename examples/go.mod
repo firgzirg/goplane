@@ -1,6 +1,6 @@
 module xairline/goplane/example
 
-go 1.17
+go 1.17.8
 
 require github.com/xairline/goplane v1.301.0
 
